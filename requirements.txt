@@ -1,0 +1,9 @@
+rapidocr-onnxruntime>=1.2.3
+opencv-python>=4.8
+PyMuPDF>=1.24
+Pillow>=10
+cn2an>=0.5
+qrcode[pil]>=7.4
+pypinyin>=0.50
+numpy>=1.24
+PySide6>=6.6

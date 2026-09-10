@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+.idea/
+.vscode/
+*.orig
+
+out/
+work/
+_preview/
+
+# 本地参考件与生成结果
+*.pdf
+!samples/**
